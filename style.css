@@ -276,7 +276,7 @@ section {
 	text-transform: uppercase;
 	letter-spacing: .05em;
 }
-img #inside {
+#inside {
   float: left;
 }
 .content-box {
