@@ -276,7 +276,9 @@ section {
 	text-transform: uppercase;
 	letter-spacing: .05em;
 }
-
+img  {
+  float: left;
+}
 .content-box {
 	padding: 60px 20px;
 }
